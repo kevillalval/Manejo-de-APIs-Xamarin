@@ -1,0 +1,16 @@
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\bin\Debug\netstandard2.0\AppManejoAPIs.deps.json
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\bin\Debug\netstandard2.0\AppManejoAPIs.dll
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\bin\Debug\netstandard2.0\ref\AppManejoAPIs.dll
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\bin\Debug\netstandard2.0\AppManejoAPIs.pdb
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.csproj.AssemblyReference.cache
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.AssemblyInfoInputs.cache
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.AssemblyInfo.cs
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.csproj.CoreCompileInputs.cache
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.dll
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\refint\AppManejoAPIs.dll
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\AppManejoAPIs.pdb
+C:\Users\tvo\source\repos\AppManejoAPIs\AppManejoAPIs\obj\Debug\netstandard2.0\Paginas\ConsumeAPI\PageAPI.xaml.g.cs

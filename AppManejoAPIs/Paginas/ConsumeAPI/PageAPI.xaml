@@ -1,0 +1,45 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppManejoAPIs.Paginas.ConsumeAPI.PageAPI"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="BackgroundColor">#FFFF</Color>
+            <Color x:Key="TextColor">#000000</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource BackgroundColor}">
+            <Label Text="CONSUMO DE API's EN XAMARIN FORMS."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                TextColor="{StaticResource TextColor}" />
+            <Label Text="Realizado por: Klever Eduardo Villalva López"
+                TextColor="{StaticResource TextColor}" />
+            <Label Text="Materia: Aplicaciones Móviles"
+                TextColor="{StaticResource TextColor}" />
+            <Label x:Name="lblDatos" Text=" "
+                TextColor="{StaticResource TextColor}" />
+            <Entry Placeholder="Id" x:Name="txtId" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Cedula" x:Name="txtCedula" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Nombres" x:Name="txtNombres" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Apellidos" x:Name="txtApellidos" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Email" x:Name="txtEmail" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Nivel" x:Name="txtNivel" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Materia1" x:Name="txtMateria1" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Entry Placeholder="Materia2" x:Name="txtMateria2" TextColor="{StaticResource TextColor}" BackgroundColor="White" />
+            <Button Text="Leer datos" Clicked="Button_Clicked"
+                BackgroundColor="#2196F3" TextColor="{StaticResource TextColor}"
+                BorderRadius="5" Margin="0,10,0,0" />
+            <Button Text="Insertar" Clicked="Button_Clicked_1"
+                BackgroundColor="#4CAF50" TextColor="{StaticResource TextColor}"
+                BorderRadius="5" Margin="0,10,0,0" />
+            <Button Text="Actualizar" Clicked="Button_Clicked_2"
+                BackgroundColor="#FFC107" TextColor="{StaticResource TextColor}"
+                BorderRadius="5" Margin="0,10,0,0" />
+            <Button Text="Eliminar" Clicked="Button_Clicked_3"
+                BackgroundColor="#F44336" TextColor="{StaticResource TextColor}"
+                BorderRadius="5" Margin="0,10,0,0" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
